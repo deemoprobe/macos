@@ -1,2 +1,2 @@
 # macos
-Some MacOS
+Some Operations in MacOS
